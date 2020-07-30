@@ -47,6 +47,8 @@ cities' database.
     ./gradlew build
     ./gradlew run
     ```
+   
+5. Access the API on `localhost:8080`
 
 ## API entry points
 
